@@ -2,3 +2,4 @@
 .vscode
 rough
 projectenv
+__pycache__
