@@ -1,5 +1,4 @@
-ls -lah
 uname -a
 pwd
-cat /etc/passwd
 ls
+ls -lah
